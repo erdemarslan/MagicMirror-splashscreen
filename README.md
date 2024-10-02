@@ -25,15 +25,15 @@ sudo cp ~/MagicMirror-splashscreen/MagicMirror.script ~/MagicMirror/splashscreen
 ```
 Use code below if you used vertical layout of screen.
 ```shell
-sudo cp ~/MagicMirror-splashscreen/MagicMirror.splash.png ~/MagicMirror/splashscreen/MagicMirror.splash.png
+sudo cp ~/MagicMirror-splashscreen/splash.png ~/MagicMirror/splashscreen/splash.png
 
-sudo cp ~/MagicMirror-splashscreen/MagicMirror.splash_halt.png ~/MagicMirror/splashscreen/MagicMirror.splash_halt.png
+sudo cp ~/MagicMirror-splashscreen/splash_halt.png ~/MagicMirror/splashscreen/splash_halt.png
 ```
 Use code below if you used horizontal (right rotated) layout of screen.
 ```shell
-sudo cp ~/MagicMirror-splashscreen/MagicMirror.splash_right.png ~/MagicMirror/splashscreen/MagicMirror.splash.png
+sudo cp ~/MagicMirror-splashscreen/splash_right.png ~/MagicMirror/splashscreen/splash.png
 
-sudo cp ~/MagicMirror-splashscreen/MagicMirror.splash_halt_right.png ~/MagicMirror/splashscreen/MagicMirror.splash_halt.png
+sudo cp ~/MagicMirror-splashscreen/splash_halt_right.png ~/MagicMirror/splashscreen/splash_halt.png
 ```
 
 Now we can set theme:
